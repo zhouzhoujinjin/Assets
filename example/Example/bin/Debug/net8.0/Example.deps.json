@@ -1043,7 +1043,10 @@
           "PureCode.Core.Kernel": "1.0.0"
         },
         "runtime": {
-          "PureCode.Core.AIFeature.dll": {}
+          "PureCode.Core.AIFeature.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "PureCode.Core.DepartmentFeature/1.0.0": {
@@ -1052,7 +1055,10 @@
           "PureCode.Core.UserFeature": "1.0.0"
         },
         "runtime": {
-          "PureCode.Core.DepartmentFeature.dll": {}
+          "PureCode.Core.DepartmentFeature.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "PureCode.Core.Kernel/1.0.0": {
@@ -1068,7 +1074,10 @@
           "PureCode.Utils": "1.0.0"
         },
         "runtime": {
-          "PureCode.Core.Kernel.dll": {}
+          "PureCode.Core.Kernel.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "PureCode.Core.MenuFeature/1.0.0": {
@@ -1077,7 +1086,10 @@
           "PureCode.Core.UserFeature": "1.0.0"
         },
         "runtime": {
-          "PureCode.Core.MenuFeature.dll": {}
+          "PureCode.Core.MenuFeature.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "PureCode.Core.SettingFeature/1.0.0": {
@@ -1087,7 +1099,10 @@
           "PureCode.Utils": "1.0.0"
         },
         "runtime": {
-          "PureCode.Core.SettingFeature.dll": {}
+          "PureCode.Core.SettingFeature.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "PureCode.Core.TreeFeature/1.0.0": {
@@ -1096,7 +1111,10 @@
           "PureCode.Core.SettingFeature": "1.0.0"
         },
         "runtime": {
-          "PureCode.Core.TreeFeature.dll": {}
+          "PureCode.Core.TreeFeature.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "PureCode.Core.UserFeature/1.0.0": {
@@ -1118,7 +1136,10 @@
           "System.IdentityModel.Tokens.Jwt": "7.2.0"
         },
         "runtime": {
-          "PureCode.Core.UserFeature.dll": {}
+          "PureCode.Core.UserFeature.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "PureCode.Core.UtilityFeature/1.0.0": {
@@ -1128,7 +1149,10 @@
           "TinyPinyin": "1.1.0"
         },
         "runtime": {
-          "PureCode.Core.UtilityFeature.dll": {}
+          "PureCode.Core.UtilityFeature.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "PureCode.Core.ValueSpaceFeature/1.0.0": {
@@ -1138,7 +1162,10 @@
           "PureCode.Utils": "1.0.0"
         },
         "runtime": {
-          "PureCode.Core.ValueSpaceFeature.dll": {}
+          "PureCode.Core.ValueSpaceFeature.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "PureCode.Utils/1.0.0": {
@@ -1150,7 +1177,10 @@
           "SixLabors.ImageSharp.Drawing": "2.1.0"
         },
         "runtime": {
-          "PureCode.Utils.dll": {}
+          "PureCode.Utils.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Aspose.Words/23.6.0.0": {

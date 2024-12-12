@@ -1,12 +1,244 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\Purecode\\purecode-v7\\example\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Projects\\Vivian\\Assets\\example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7522F2-8596-4F9C-831F-8DDC7B934828}|..\\biz\\AssetManage\\AssetManage.csproj|d:\\projects\\vivian\\assets\\biz\\assetmanage\\assetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7522F2-8596-4F9C-831F-8DDC7B934828}|..\\biz\\AssetManage\\AssetManage.csproj|d:\\projects\\vivian\\assets\\biz\\assetmanage\\entites\\assetpropentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7522F2-8596-4F9C-831F-8DDC7B934828}|..\\biz\\AssetManage\\AssetManage.csproj|d:\\projects\\vivian\\assets\\biz\\assetmanage\\models\\assetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7522F2-8596-4F9C-831F-8DDC7B934828}|..\\biz\\AssetManage\\AssetManage.csproj|d:\\projects\\vivian\\assets\\biz\\assetmanage\\assetmodelcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7522F2-8596-4F9C-831F-8DDC7B934828}|..\\biz\\AssetManage\\AssetManage.csproj|d:\\projects\\vivian\\assets\\biz\\assetmanage\\purecodebuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7522F2-8596-4F9C-831F-8DDC7B934828}|..\\biz\\AssetManage\\AssetManage.csproj|d:\\projects\\vivian\\assets\\biz\\assetmanage\\models\\itempropmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7522F2-8596-4F9C-831F-8DDC7B934828}|..\\biz\\AssetManage\\AssetManage.csproj|d:\\projects\\vivian\\assets\\biz\\assetmanage\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7522F2-8596-4F9C-831F-8DDC7B934828}|..\\biz\\AssetManage\\AssetManage.csproj|d:\\projects\\vivian\\assets\\biz\\assetmanage\\entites\\itempropentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7522F2-8596-4F9C-831F-8DDC7B934828}|..\\biz\\AssetManage\\AssetManage.csproj|d:\\projects\\vivian\\assets\\biz\\assetmanage\\entites\\categoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7522F2-8596-4F9C-831F-8DDC7B934828}|..\\biz\\AssetManage\\AssetManage.csproj|d:\\projects\\vivian\\assets\\biz\\assetmanage\\entites\\itementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7522F2-8596-4F9C-831F-8DDC7B934828}|..\\biz\\AssetManage\\AssetManage.csproj|d:\\projects\\vivian\\assets\\biz\\assetmanage\\entites\\assetentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C310808D-EFC9-4572-AEB5-7C631E91F384}|..\\src\\PureCode.Core.DepartmentFeature\\PureCode.Core.DepartmentFeature.csproj|d:\\projects\\vivian\\assets\\src\\purecode.core.departmentfeature\\departmententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C310808D-EFC9-4572-AEB5-7C631E91F384}|..\\src\\PureCode.Core.DepartmentFeature\\PureCode.Core.DepartmentFeature.csproj|d:\\projects\\vivian\\assets\\src\\purecode.core.departmentfeature\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7522F2-8596-4F9C-831F-8DDC7B934828}|..\\biz\\AssetManage\\AssetManage.csproj|d:\\projects\\vivian\\assets\\biz\\assetmanage\\models\\assetpropmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssetManager.cs",
+              "DocumentMoniker": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\AssetManager.cs",
+              "RelativeDocumentMoniker": "..\\biz\\AssetManage\\AssetManager.cs",
+              "ToolTip": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\AssetManager.cs",
+              "RelativeToolTip": "..\\biz\\AssetManage\\AssetManager.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:08:29.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssetModelCreation.cs",
+              "DocumentMoniker": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\AssetModelCreation.cs",
+              "RelativeDocumentMoniker": "..\\biz\\AssetManage\\AssetModelCreation.cs",
+              "ToolTip": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\AssetModelCreation.cs",
+              "RelativeToolTip": "..\\biz\\AssetManage\\AssetModelCreation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:08:28.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PureCodeBuilderExtensions.cs",
+              "DocumentMoniker": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\PureCodeBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "..\\biz\\AssetManage\\PureCodeBuilderExtensions.cs",
+              "ToolTip": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\PureCodeBuilderExtensions.cs",
+              "RelativeToolTip": "..\\biz\\AssetManage\\PureCodeBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:08:06.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemPropModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\Models\\ItemPropModel.cs",
+              "RelativeDocumentMoniker": "..\\biz\\AssetManage\\Models\\ItemPropModel.cs",
+              "ToolTip": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\Models\\ItemPropModel.cs",
+              "RelativeToolTip": "..\\biz\\AssetManage\\Models\\ItemPropModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:06:34.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepartmentEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\Vivian\\Assets\\src\\PureCode.Core.DepartmentFeature\\DepartmentEntity.cs",
+              "RelativeDocumentMoniker": "..\\src\\PureCode.Core.DepartmentFeature\\DepartmentEntity.cs",
+              "ToolTip": "D:\\Projects\\Vivian\\Assets\\src\\PureCode.Core.DepartmentFeature\\DepartmentEntity.cs",
+              "RelativeToolTip": "..\\src\\PureCode.Core.DepartmentFeature\\DepartmentEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:04:43.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\Entites\\ItemEntity.cs",
+              "RelativeDocumentMoniker": "..\\biz\\AssetManage\\Entites\\ItemEntity.cs",
+              "ToolTip": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\Entites\\ItemEntity.cs",
+              "RelativeToolTip": "..\\biz\\AssetManage\\Entites\\ItemEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:04:21.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssetModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\Models\\AssetModel.cs",
+              "RelativeDocumentMoniker": "..\\biz\\AssetManage\\Models\\AssetModel.cs",
+              "ToolTip": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\Models\\AssetModel.cs",
+              "RelativeToolTip": "..\\biz\\AssetManage\\Models\\AssetModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:41:16.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssetPropEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\Entites\\AssetPropEntity.cs",
+              "RelativeDocumentMoniker": "..\\biz\\AssetManage\\Entites\\AssetPropEntity.cs",
+              "ToolTip": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\Entites\\AssetPropEntity.cs",
+              "RelativeToolTip": "..\\biz\\AssetManage\\Entites\\AssetPropEntity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:45:38.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\Entites\\CategoryEntity.cs",
+              "RelativeDocumentMoniker": "..\\biz\\AssetManage\\Entites\\CategoryEntity.cs",
+              "ToolTip": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\Entites\\CategoryEntity.cs",
+              "RelativeToolTip": "..\\biz\\AssetManage\\Entites\\CategoryEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAvwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:05:00.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemPropEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\Entites\\ItemPropEntity.cs",
+              "RelativeDocumentMoniker": "..\\biz\\AssetManage\\Entites\\ItemPropEntity.cs",
+              "ToolTip": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\Entites\\ItemPropEntity.cs",
+              "RelativeToolTip": "..\\biz\\AssetManage\\Entites\\ItemPropEntity.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:06:20.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\Models\\ItemModel.cs",
+              "RelativeDocumentMoniker": "..\\biz\\AssetManage\\Models\\ItemModel.cs",
+              "ToolTip": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\Models\\ItemModel.cs",
+              "RelativeToolTip": "..\\biz\\AssetManage\\Models\\ItemModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:04:19.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssetPropModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\Models\\AssetPropModel.cs",
+              "RelativeDocumentMoniker": "..\\biz\\AssetManage\\Models\\AssetPropModel.cs",
+              "ToolTip": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\Models\\AssetPropModel.cs",
+              "RelativeToolTip": "..\\biz\\AssetManage\\Models\\AssetPropModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:45:34.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Vivian\\Assets\\src\\PureCode.Core.DepartmentFeature\\DepartmentModel.cs",
+              "RelativeDocumentMoniker": "..\\src\\PureCode.Core.DepartmentFeature\\DepartmentModel.cs",
+              "ToolTip": "D:\\Projects\\Vivian\\Assets\\src\\PureCode.Core.DepartmentFeature\\DepartmentModel.cs",
+              "RelativeToolTip": "..\\src\\PureCode.Core.DepartmentFeature\\DepartmentModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:41:55.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssetEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\Entites\\AssetEntity.cs",
+              "RelativeDocumentMoniker": "..\\biz\\AssetManage\\Entites\\AssetEntity.cs",
+              "ToolTip": "D:\\Projects\\Vivian\\Assets\\biz\\AssetManage\\Entites\\AssetEntity.cs",
+              "RelativeToolTip": "..\\biz\\AssetManage\\Entites\\AssetEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:41:18.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

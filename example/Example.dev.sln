@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PureCode.Core.DepartmentFea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PureCode.Core.AIFeature", "..\src\PureCode.Core.AIFeature\PureCode.Core.AIFeature.csproj", "{6163AD6A-F5D5-4C08-B352-E02BDEAA8C02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetManage", "..\biz\AssetManage\AssetManage.csproj", "{3B7522F2-8596-4F9C-831F-8DDC7B934828}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{6163AD6A-F5D5-4C08-B352-E02BDEAA8C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6163AD6A-F5D5-4C08-B352-E02BDEAA8C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6163AD6A-F5D5-4C08-B352-E02BDEAA8C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B7522F2-8596-4F9C-831F-8DDC7B934828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7522F2-8596-4F9C-831F-8DDC7B934828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7522F2-8596-4F9C-831F-8DDC7B934828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7522F2-8596-4F9C-831F-8DDC7B934828}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,6 +98,7 @@ Global
 		{145B95E3-8B40-4EDB-997E-776A958CB93D} = {11A22343-52EA-45F1-ADC3-CD4554A15AD0}
 		{C310808D-EFC9-4572-AEB5-7C631E91F384} = {11A22343-52EA-45F1-ADC3-CD4554A15AD0}
 		{6163AD6A-F5D5-4C08-B352-E02BDEAA8C02} = {11A22343-52EA-45F1-ADC3-CD4554A15AD0}
+		{3B7522F2-8596-4F9C-831F-8DDC7B934828} = {11A22343-52EA-45F1-ADC3-CD4554A15AD0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {967E953D-FC04-45E9-97CB-D3994B692EC2}
