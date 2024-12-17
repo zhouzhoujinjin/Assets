@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PureCode.Core.AIFeature", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetManage", "..\biz\AssetManage\AssetManage.csproj", "{3B7522F2-8596-4F9C-831F-8DDC7B934828}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberStone.Core", "..\..\..\slobber\CyberStone\CyberStone.Core\CyberStone.Core.csproj", "{75429890-B784-42B2-935F-FAC574693008}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{3B7522F2-8596-4F9C-831F-8DDC7B934828}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B7522F2-8596-4F9C-831F-8DDC7B934828}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B7522F2-8596-4F9C-831F-8DDC7B934828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75429890-B784-42B2-935F-FAC574693008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75429890-B784-42B2-935F-FAC574693008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75429890-B784-42B2-935F-FAC574693008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75429890-B784-42B2-935F-FAC574693008}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

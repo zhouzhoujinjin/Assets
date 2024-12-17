@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PureCode.Core.SettingFeature")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01f13855e5d2999bb27e69fe0e0bdeaf35a24a80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ab10077529787f862525e1ba3ae520ebe2d2715")]
 [assembly: System.Reflection.AssemblyProductAttribute("PureCode.Core.SettingFeature")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PureCode.Core.SettingFeature")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

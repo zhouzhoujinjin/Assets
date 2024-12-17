@@ -16,6 +16,8 @@ namespace AssetManage.Entites
     public required string PropType { get; set; }
     public ulong AssetId { get; set; }
     public bool Enable { get; set; }
+    public string? DefaultValue {  get; set; } 
+
     public DateTime CreatedTime { get; set; }
     public DateTime? UpdatedTime { get; set; }
 

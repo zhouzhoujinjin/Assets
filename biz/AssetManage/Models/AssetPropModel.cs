@@ -19,6 +19,8 @@ namespace AssetManage.Models
     public string? Unit { get; set; }
     [JsonPropertyName("propType")]
     public required string PropType { get; set; }
+    [JsonPropertyName("defaultValue")]
+    public string? DefaultValue{ get; set; }
     public ulong AssetId { get; set; }
   }
 }
